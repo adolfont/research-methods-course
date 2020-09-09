@@ -2,7 +2,7 @@
 
 ## Systematic Reviews
 
-## Systematica Mappings
+## Systematic Mappings
 
 ## Case Studies
 
